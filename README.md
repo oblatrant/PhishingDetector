@@ -39,6 +39,8 @@ pip install -r requirements.txt
 | `text_combined` | Email content                |
 | `label`         | 0 = Legitimate, 1 = Phishing |
 
+
+[![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Phishing_Email_Dataset-blue?logo=kaggle&style=for-the-badge)](https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset)
 ---
 
 ### 4️⃣ Run the program
